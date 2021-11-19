@@ -1,5 +1,4 @@
 # Facial-Recognition-VGG-Face
-# Facial-Recognition-VGG-Face
 # Deep Learning Facial Recognition System Using VGGFace, Keras and TensorFlow.
 
 ## Installing Keras and TensorFlow
